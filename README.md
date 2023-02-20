@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedJyu
 - 👀 I’m interested in Coding, Cars, Computers, Technology.
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on everything frontdev releated
+- 🌱 I’m currently learning HTML/CSS/JavaScript/React
+- 💞️ I’m looking to improve my coding skills
 - 📫 How to reach me piotr.stezycki@protonmail.com
 
 <!---
